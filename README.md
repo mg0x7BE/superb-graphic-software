@@ -1,8 +1,8 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/superb-graphic-software)
-![GitHub License](https://img.shields.io/github/license/MaxGripe/superb-graphic-software)
-![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/superb-graphic-software)
-![GitHub forks](https://img.shields.io/github/forks/MaxGripe/superb-graphic-software)
-![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/superb-graphic-software)
+![GitHub repo size](https://img.shields.io/github/repo-size/mg0x7BE/superb-graphic-software)
+![GitHub License](https://img.shields.io/github/license/mg0x7BE/superb-graphic-software)
+![GitHub Created At](https://img.shields.io/github/created-at/mg0x7BE/superb-graphic-software)
+![GitHub forks](https://img.shields.io/github/forks/mg0x7BE/superb-graphic-software)
+![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/superb-graphic-software)
 
 # Superb Graphic Software
 
