@@ -46,9 +46,5 @@ Curated list of graphic applications. PRs welcome.
 - [Open Brush](https://github.com/icosa-foundation/open-brush) - VR painting (Tilt Brush fork)
 - [cables](https://cables.gl/) - Visual programming for graphics
 - [Moebius](https://blocktronics.github.io/moebius) - ANSI/ASCII editor
-## Other Tools
-- [DPaint.js](https://github.com/steffest/dpaint-js) - Deluxe Paint in a browser.
-- [Open Brush](https://github.com/icosa-foundation/open-brush) - Community-led evolution of Tilt Brush.
-- [cables](https://cables.gl/) - Real-time visual programming from Demoscene developers.
-- [Moebius](https://blocktronics.github.io/moebius) - ANSI and ASCII Editor
+
   
