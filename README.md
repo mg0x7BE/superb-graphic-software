@@ -6,7 +6,7 @@
 
 # Superb Graphic Software
 
-This list contains links to various interesting graphic applications. If you think something should be added here, feel free to create a pull request.
+Curated list of graphic applications. PRs welcome.
 
 ## Contents
 - [Pixel Art](#pixel-art)
@@ -19,30 +19,36 @@ This list contains links to various interesting graphic applications. If you thi
 - [Other Tools](#other-tools)
 
 ## Pixel Art
-- [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool.
-- [mcDRAW](https://mcdraw.xyz/) - Online pixel editor for C64 Multicolor Bitmap Mode.
+- [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool
+- [mcDRAW](https://mcdraw.xyz/) - Online pixel editor for C64 Multicolor Bitmap Mode
 
 ## Digital Painting
-- [Procreate](https://procreate.art/) - People buy iPads to use it.
+- [Procreate](https://procreate.art/) - People buy iPads to use it
 
 ## Graphic Design
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - The best alternative to Adobe Illustrator, superior in many aspects.
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Vector design tool
 
 ## Motion Graphics
-- [Cavalry](https://cavalry.scenegroup.co/) - MoGraph for 2D.
+- [Cavalry](https://cavalry.scenegroup.co/) - 2D motion graphics
   
 ## 3D Graphics
-- [RizomUV](https://www.rizom-lab.com/) - Super powerful set of tools designed to streamline UV mapping.
+- [RizomUV](https://www.rizom-lab.com/) - UV mapping tools
   
 ## Photo Editing
-- [Capture One](https://www.captureone.com/) - The best alternative to Adobe Lightroom, superior in many aspects.
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Similar to Photoshop, but without a subscription.
+- [Capture One](https://www.captureone.com/) - RAW photo editor
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Raster image editor
 
 ## Video Editing
-- [Blackmagic Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - The best video production application.
+- [Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Video production suite
 
+## Other Tools
+- [DPaint.js](https://github.com/steffest/dpaint-js) - Deluxe Paint in browser
+- [Open Brush](https://github.com/icosa-foundation/open-brush) - VR painting (Tilt Brush fork)
+- [cables](https://cables.gl/) - Visual programming for graphics
+- [Moebius](https://blocktronics.github.io/moebius) - ANSI/ASCII editor
 ## Other Tools
 - [DPaint.js](https://github.com/steffest/dpaint-js) - Deluxe Paint in a browser.
 - [Open Brush](https://github.com/icosa-foundation/open-brush) - Community-led evolution of Tilt Brush.
 - [cables](https://cables.gl/) - Real-time visual programming from Demoscene developers.
-- [Moebius](https://blocktronics.github.io/moebius) ANSI and ASCII Editor
+- [Moebius](https://blocktronics.github.io/moebius) - ANSI and ASCII Editor
+  
